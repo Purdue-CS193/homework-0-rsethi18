@@ -14,8 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - The articulate and helpful instructors
 - The amount of hands on experience we get
 - The late evening time of the class
-
-```markdown
+  
+```
 Syntax highlighted code block
 
 # Edited
